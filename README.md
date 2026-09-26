@@ -17,4 +17,5 @@ A 4-manned web application Capstone Project designed for Arriesgado Dental Clini
 - JQuery
 
 # How to access the web app:
-Go to https://smile-ify.dcism.org/ 
+1. Go to https://smile-ify.dcism.org
+2. Create a booking first before receiving login credentials via email.
